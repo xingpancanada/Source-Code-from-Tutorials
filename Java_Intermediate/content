@@ -1,1 +1,2 @@
-01 starsWith() endsWith()
+01 starsWith('fu') endsWith('uk')
+02 indexOf('k',5) indexOf("rob",10) a.concat(b) replace("B","F") toUpperCase() trim() 
